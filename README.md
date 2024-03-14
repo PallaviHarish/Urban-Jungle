@@ -10,10 +10,11 @@ Welcome to UrbanJungle, your go-to destination for all things green and beautifu
 Feel free to customize it further according to your specific features and design!
 
 # Sample Images
-![Screenshot 2024-03-14 191148](https://github.com/PallaviHarish/Urban-Jungle/assets/106737458/258a7321-778b-478b-b3ca-d3aa21ade54f)
+
 ![Screenshot 2024-03-14 190947](https://github.com/PallaviHarish/Urban-Jungle/assets/106737458/e6c05cf9-7f1a-49f2-ba10-32e919cca945)
 ![Screenshot 2024-03-14 191049](https://github.com/PallaviHarish/Urban-Jungle/assets/106737458/56a19779-ff2c-4392-806c-6998de2f9903)
 ![Screenshot 2024-03-14 191121](https://github.com/PallaviHarish/Urban-Jungle/assets/106737458/7895c060-50ea-4aef-abf4-94fd854b6114)
 ![Screenshot 2024-03-14 191237](https://github.com/PallaviHarish/Urban-Jungle/assets/106737458/58cdfbed-4c40-4aec-837e-a83332aef281)
+![Screenshot 2024-03-14 191148](https://github.com/PallaviHarish/Urban-Jungle/assets/106737458/258a7321-778b-478b-b3ca-d3aa21ade54f)
 ![Screenshot 2024-03-14 191210](https://github.com/PallaviHarish/Urban-Jungle/assets/106737458/cea58e75-31a5-4651-8111-0324e7f0c06e)
 
