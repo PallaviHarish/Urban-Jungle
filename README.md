@@ -9,6 +9,12 @@ Welcome to UrbanJungle, your go-to destination for all things green and beautifu
 
 Feel free to customize it further according to your specific features and design!
 
+# Technology used:
++ PHP
++ MySQL
++ HTML
++ CSS (Bootstrap)
+  
 # Sample Images
 
 ![Screenshot 2024-03-14 190947](https://github.com/PallaviHarish/Urban-Jungle/assets/106737458/e6c05cf9-7f1a-49f2-ba10-32e919cca945)
